@@ -1,6 +1,7 @@
 # (©)Codexbotz
 # Recode By @Mafia_Tobatz
 # Recode by @RYUUSHINNI
+# Recode By @dimsumsthd
 # Kalo clone Gak usah hapus 
 # gue tandain akun tele nya ngentod
 
@@ -118,10 +119,10 @@ async def start_command(client: Client, message: Message):
         buttons = [
             [InlineKeyboardButton("•Tᴇɴᴛᴀɴɢ Sᴀʏᴀ", callback_data="about")],
             [
-                InlineKeyboardButton("•Cʜᴀɴɴᴇʟ•", url=client.invitelink),
-                InlineKeyboardButton("•Gʀᴏᴜᴘ•", url=client.invitelink2),],
+                InlineKeyboardButton("•CHANNEL 1•", url=client.invitelink),
+                InlineKeyboardButton("•CHANNEL 2•", url=client.invitelink2),],
             [
-                InlineKeyboardButton("•Tᴜᴛᴜᴘ", callback_data="close"),
+                InlineKeyboardButton("•ABOUT ME", callback_data="close"),
             ],
         ]
         await message.reply_text(
