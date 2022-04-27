@@ -3,6 +3,7 @@
 # Kalo clone Gak usah hapus 
 # gue tandain akun tele nya ngentod
 # Recode by @RYUUSHINNI
+# Recode by @dimsumsthd
 
 import pyromod.listen
 import sys
@@ -87,7 +88,7 @@ class Bot(Client):
 
         self.set_parse_mode("html")
         self.LOGGER(__name__).info(
-            f"[🔥 BERHASIL DIAKTIFKAN! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan ke https://t.me/RYUUSHINNI"
+            f"[🔥 BERHASIL NGENTOT! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan ke https://t.me/dimsumsthd"
         )
         self.username = usr_bot_me.username
 
