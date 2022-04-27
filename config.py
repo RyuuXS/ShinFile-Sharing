@@ -1,6 +1,7 @@
 # (©)Codexbotz
 # Recife By #Mafia_Tobatz
 # Recode by @RYUUSHINNI
+# Recode by @dimsumsthd
 # Kalo clone Gak usah hapus 
 # gue tandain akun tele nya ngentod
 
