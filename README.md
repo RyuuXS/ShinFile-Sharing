@@ -1,12 +1,3 @@
-# Shin 2nd File- Sharing
-
-Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
-Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
-
-##
-
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@helpforRYUU](https://www.telegram.dog/helpforRYUU)**
-
 ### Features
 - Sepenuhnya dapat dicustom.
 - Pesan sambutan & Forcesub yang dapat dicustom.
