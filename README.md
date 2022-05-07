@@ -1,11 +1,11 @@
-# Shin 2nd File- Sharing
+# DIMSUM BOYS MOTHER FUCKER
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@helpforRYUU](https://www.telegram.dog/helpforRYUU)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@weareinsurgent](https://www.telegram.dog/weareinsurgent)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -22,7 +22,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 #
 ## Installation
 ### 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RyuuXS/ShinFile-Sharing)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DIMSUMBOYS/ShinFile-Sharing)
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -89,13 +89,13 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/helpforRYUU) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Belajarbersamaryuu) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/weareinsurgent) Untuk Dukungan ATAU Video Bokep Dan Join [Channel](https://www.telegram.dog/limiteddedition1) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
 ### Credits
 
-- Shin - [Dev TRANS UBOT](https://t.me/RYUUSHINNI)
+- Dimsum - [Dev TRANS UBOT](https://t.me/dimsumsthd)
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Our Support Group Members
@@ -103,7 +103,7 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana..
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING2nd](https://github.com/RyuuXS/ShinFile-Sharing/) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING](https://github.com/DIMSUMBOYS/ShinFile-Sharing) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
