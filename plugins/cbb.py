@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
+# Recode by @dimsumsthd
 # Recode by @RYUUSHINNI
 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
@@ -13,7 +13,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text=f"<b>Tentang Bot ini:\n\n • Owner: @{OWNER}\n • Channel: @{CHANNEL}\n • Group: @{GROUP}\n • Source Code: <a href='https://github.com/RyuuXS/ShinFile-Sharing'>Klik Disini</a></b>\n",
+            text=f"<b>Tentang Bot ini:\n\n • Owner: @{OWNER}\n • Channel: @{limiteddedition1}\n • Group: @{weareinsurgent}\n • Source Code: <a href='https://github.com/DIMSUMBOYS/ShinFile-Sharing'>Klik Disini</a></b>\n",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("• ᴛᴜᴛᴜᴘ •", callback_data="close")]]
