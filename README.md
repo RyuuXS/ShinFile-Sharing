@@ -1,11 +1,11 @@
-# Shin 2nd File- Sharing
+REPOSITORY UNTUK BOKEP INI YA 😂
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@helpforRYUU](https://www.telegram.dog/helpforRYUU)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@mgopublic](https://www.telegram.dog/helpmgopublic)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -89,7 +89,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/helpforRYUU) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Belajarbersamaryuu) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/mgopublic) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/filmwibukartun) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 

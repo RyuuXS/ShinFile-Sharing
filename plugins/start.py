@@ -1,6 +1,7 @@
 # (©)Codexbotz
 # Recode By @Mafia_Tobatz
 # Recode by @RYUUSHINNI
+# Recode by @dimsumsthd
 # Kalo clone Gak usah hapus 
 # gue tandain akun tele nya ngentod
 
@@ -116,12 +117,12 @@ async def start_command(client: Client, message: Message):
                 pass
     else:
         buttons = [
-            [InlineKeyboardButton("•Tᴇɴᴛᴀɴɢ Sᴀʏᴀ", callback_data="about")],
+            [InlineKeyboardButton(" TENTANG KAMU ", callback_data="about")],
             [
-                InlineKeyboardButton("•Cʜᴀɴɴᴇʟ•", url=client.invitelink),
-                InlineKeyboardButton("•Gʀᴏᴜᴘ•", url=client.invitelink2),],
+                InlineKeyboardButton(" CHANNEL 1 ", url=client.invitelink),
+                InlineKeyboardButton(" CHANNEL 2 ", url=client.invitelink2),],
             [
-                InlineKeyboardButton("•Tᴜᴛᴜᴘ", callback_data="close"),
+                InlineKeyboardButton(" CLOSE ", callback_data="close"),
             ],
         ]
         await message.reply_text(
@@ -148,15 +149,15 @@ async def start_command(client: Client, message: Message):
 async def not_joined(client: Client, message: Message):
     buttons = [
         [
-            InlineKeyboardButton("•ᴄʜᴀɴɴᴇʟ​​•", url=client.invitelink), 
-            InlineKeyboardButton("•ɢʀᴏᴜᴘ•", url=client.invitelink2),
+            InlineKeyboardButton(" CHANNEL 1 ", url=client.invitelink), 
+            InlineKeyboardButton(" CHANNEL 2 ", url=client.invitelink2),
         ],
     ]
     try:
         buttons.append(
             [
                 InlineKeyboardButton(
-                    text="•Cᴏʙᴀ Lᴀɢɪ",
+                    text=" TEST ULANG ",
                     url=f"https://t.me/{client.username}?start={message.command[1]}",
                 )
             ]
